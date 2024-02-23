@@ -1,14 +1,15 @@
 # My Shop 🛍
 
-My Shop is a fictional shopping application. To access the application, an account needs to be created. The main screen displays various products. Products can be filtered based on categories. In the search screen, you can search for any desired product. You can add your desired product to favorites and quickly access it from the favorites screen. In the profile screen, you can update your username, phone number, address and date of birth.
+My Shop is a fictional shopping application. To access the application, an account needs to be created. The main screen displays various products. In the profile screen, you can update your username, phone number, address and date of birth.
 
-The application uses [Firebase Authentication](https://firebase.google.com/docs/auth) for user verification. Additionally, a phone number can be added. When adding a phone number, a verification code is send to the added phone number. After entering the received code in the application, the phone number gets associated with the account. User profile images are stored using [Firebase Storage](https://firebase.google.com/docs/storage). The user's address and date of birth information are stored using [Cloud Firestore](https://firebase.google.com/docs/firestore).
+The application uses [Firebase Authentication](https://firebase.google.com/docs/auth) for user verification. Additionally, a phone number can be added.
 
 ### <b>Setting up the second Firebase application</b> 🛠
 
-Enter the required information in the local.properties file as specified in the provided link.
-
-
+Enter the required information in the local.properties file 
+PROJECT_ID="Enter"
+APPLICATION_ID="Enter"
+API_KEY="Enter"
  
 ## Tech Stack 📚
 
@@ -27,6 +28,10 @@ Enter the required information in the local.properties file as specified in the 
 * [Image Cropper](https://github.com/mr0xf00/easycrop)
 
 ## Outputs 🖼
+![login](https://github.com/shiv-eng/ComposeShoppingApp/assets/59472647/7cede3cc-012f-4038-9abb-32e0c7554192)
+![product](https://github.com/shiv-eng/ComposeShoppingApp/assets/59472647/b3ed67b6-e98b-4e93-b9a0-1573eee5b698)
+
+![card](https://github.com/shiv-eng/ComposeShoppingApp/assets/59472647/83355535-e6e0-4e8f-aa0a-eca7139797e5)
 
 ## Architecture 🏗
 The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional flow of data, separation of concern, testability, and a lot more.
