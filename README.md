@@ -40,3 +40,10 @@ The app uses MVVM [Model-View-ViewModel] architecture to have a unidirectional f
 ## API 📦
 [Fake store API](https://fakestoreapi.com/)
 
+🚀 About Me
+Hi! My name is Shivangi Mundra, I work as a Software Developer and like to expand my skill set in my spare time.
+
+If you have any questions or want to connect, feel free to reach out to me on :
+
+- [LinkedIn](https://www.linkedin.com/in/shivangi-mundra-9a31b65b/)
+
