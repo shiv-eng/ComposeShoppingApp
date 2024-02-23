@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name" translatable="false">Shopping App</string>
+
+    <string name="hello_again">Hello there !</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_now">Register now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password (+6 length)</string>
+    <string name="welcome_register">Register now !</string>
+    <string name="verify_password">Verify Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="discover_products">Discover Products</string>
+    <string name="all">All</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="sub_total">Subtotal:</string>
+    <string name="delivery_fee">Delivery Fee:</string>
+    <string name="checkout">Checkout for </string>
+    <string name="card_num">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvc">CVC</string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total</string>
+    <string name="payment">Payment</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="unknown_error">Something went wrong</string>
+    <string name="send">Send</string>
+    <string name="password_reset_mail">Password reset mail has been sent. Please check your email box.</string>
+    <string name="unknown">Something went wrong. Please try again later!!</string>
+    <string name="network">Please check your internet connection!!</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="account_info">Account Info</string>
+    <string name="verify">Verify</string>
+    <string name="enter_verification_code">Please enter the verification code sent to your phone number.</string>
+    <string name="verification_completed">Verification Completed</string>
+    <string name="search_result_empty_message">It seems the product you are looking for is not available.</string>
+    <string name="search_something">Search for the product you want</string>
+    <string name="product_added_favorites">The product has been successfully added to favorites.</string>
+    <string name="product_removed_favorites">The product has been successfully removed from favorites.</string>
+    <string name="no_favorite">It seems you don\'t have a favorite product.</string>
+    <string name="product_added_cart">Product successfully added to cart.</string>
+    <string name="go_to_cart">Go to cart</string>
+    <string name="cart_empty">Your cart is currently empty!</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="valid_thru">VALID THRU</string>
+    <string name="expiry_date_placeholder">MM/YY</string>
+    <string name="fill_all_fields">Please fill in all fields!!</string>
+    <string name="payment_success">Payment completed successfully. Thanks for shopping.</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="name_updated_suc">Name updated successfully</string>
+    <string name="img_upload_suc">Image uploaded successfully</string>
+    <string name="upload_address_suc">Your address updated successfully</string>
+    <string name="upload_birthdate_suc">Your birthdate updated successfully</string>
+    <string name="fill_this_field">"Please fill in this field"</string>
+    <string name="pass_dont_match">Passwords do not match</string>
+    <string name="pass_length">Password must be at least 6 characters in length</string>
+    <string name="enter_valid_email">Please enter a valid email</string>
+    <string name="confirm">Confirm</string>
+    <string name="products">Products</string>
+    <string name="shopping_notification_title">Don\'t forget to shop</string>
+    <string name="shop_notification_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae odio in mauris elementum commodo id ut neque. Sed a blandit justo, eu porta libero.</string>
+    <string name="shopping_channel_name" translatable="false">Shopping channel</string>
+    <string name="shopping_channel_description" translatable="false">Daily shopping reminder</string>
+    <string name="delete">Delete</string>
+    <string name="delete_account_title">Delete Account</string>
+    <string name="delete_account_success">Your account deleted successfully</string>
+    <string name="delete_account_warning">When you delete your account, all your user information is also deleted. This process is irreversible.</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_channel</string>
+</resources>
